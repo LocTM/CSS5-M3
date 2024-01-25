@@ -25,3 +25,9 @@ p{
     height: 50px;
     background-color: red;
 }
+
+#id{
+    color: aquamarine;
+    border: 5px gold groove ;
+
+}
