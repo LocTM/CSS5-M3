@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    font-family: Tahoma;
+    font-size: 300%;
+
+}
+
+p{
+    color: red;
+    font-family: fantasy;
+    font-size: 120%;
+    border: 4px groove orangered  ;
+    padding: 20px ;
+
+}
+
+.divcha{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.divcon{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
